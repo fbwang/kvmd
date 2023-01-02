@@ -24,7 +24,7 @@ body {
 	margin: 0;
 	overflow: hidden;
 	color: var(--cs-page-default-fg);
-	background-color: var(--cs-page-default-bg);
+	background-color: #b5c7c9;
 	font-family: arial, sans-serif !important;
 }
 body.body-no-select {
